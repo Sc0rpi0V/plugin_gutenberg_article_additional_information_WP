@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/gutenberg-product-additional-information",
+	"category": "gutenberg",
+	"icon": "smiley",
+	"attributes": {
+	},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "gutenberg-product-additional-information",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
